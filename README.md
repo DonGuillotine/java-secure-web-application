@@ -4,7 +4,7 @@
 
 
 # Java Secure Web Application
-A comprehensive guide to building Java-based web applications.
+We can create a website with static HTML pages but when we want information to be dynamic, we need web application.
 
 ## Web Server and Client
 A web server is a computer system that serves web pages to clients over the internet. The client, on the other hand, is the web browser used to request and receive web pages.
